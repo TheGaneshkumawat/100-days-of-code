@@ -2,10 +2,9 @@
 
 ### Day 1: 29th Dec 2021
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: I've done a Python exercise.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Problem** Creates quizzes with questions and answers in random order, along with the answer key.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [File Manipulation](https://github.com/TheGaneshkumawat/Python-Tutorial/blob/main/src/file-1.py)
